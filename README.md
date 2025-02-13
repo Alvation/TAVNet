@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TAVNet: Text-aided Audio-Visual Network for Speech Recognition and Translation
 
 This repository contains the **TAVNet** model code, which includes multiple model variants for speech recognition and translation tasks using audio and video inputs. Below is a detailed description of the folder structure:
