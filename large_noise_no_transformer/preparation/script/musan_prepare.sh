@@ -1,0 +1,1 @@
+python preparation/musan_prepare.py --musan /workspace/AVTSR/data/musan --slurm_partition gpu
